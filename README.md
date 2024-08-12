@@ -4,6 +4,7 @@ Build and deploy a healthcare management system, Care Pools, using Next.js, Twil
 
 Highlights
 🚀 Build a comprehensive healthcare management system.
+
 📅 Streamline patient registration and appointment scheduling.
 🔒 Implement secure authentication and access permissions.
 📱 Real-time SMS notifications enhance user experience.
