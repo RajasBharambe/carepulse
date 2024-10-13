@@ -14,7 +14,9 @@ Highlights
 </ol>
 
 Key Insights
-🏥 Healthcare Focus: The course addresses real-world healthcare challenges, providing a practical solution for patient management. This relevance increases engagement and motivation for learners.</br>
-🔧 Tech Stack Mastery: Using Next.js with TypeScript, students gain valuable skills in modern web development, including server-side rendering and form validation techniques that are widely applicable in the industry.</br>
-📈 User Experience: Emphasizing real-time SMS notifications and a user-friendly interface showcases the importance of user experience in healthcare apps, highlighting how technology can improve patient communication.</br>
-📊 Data Management: Learning to handle complex forms and data management solidifies the understanding of CRUD operations, essential for any web application, especially in data-sensitive fields like healthcare.
+<ol>
+  <li>🏥 Healthcare Focus: The course addresses real-world healthcare challenges, providing a practical solution for patient management. This relevance increases engagement and motivation for learners.</li> </br>
+  <li>🔧 Tech Stack Mastery: Using Next.js with TypeScript, students gain valuable skills in modern web development, including server-side rendering and form validation techniques that are widely applicable in the industry.</li></br>
+  <li>📈 User Experience: Emphasizing real-time SMS notifications and a user-friendly interface showcases the importance of user experience in healthcare apps, highlighting how technology can improve patient communication.</li></br>
+  <li>📊 Data Management: Learning to handle complex forms and data management solidifies the understanding of CRUD operations, essential for any web application, especially in data-sensitive fields like healthcare. </li></br>
+</ol>
